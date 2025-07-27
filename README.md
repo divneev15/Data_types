@@ -52,11 +52,17 @@ Use `sizeof()` to check how much memory each type uses.
 ### 🧾 **Algorithm**
 
 **Step 1:** Start the program
+
 **Step 2:** Declare variables of types: `int`, `float`, `char`, `double`, `bool`
+
 **Step 3:** Use `sizeof()` to display the memory size of each type
+
 **Step 4:** Write a function to demonstrate `auto` and `static` variables
+
 **Step 5:** Call the function multiple times to see the value change or reset
+
 **Step 6:** Declare a `register` variable and show its usage
+
 **Step 7:** End the program
 
 ---
