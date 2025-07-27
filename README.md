@@ -63,23 +63,32 @@ Use `sizeof()` to check how much memory each type uses.
 
 ### 🔎 **Sample Output**
 
-```plaintext
-Size of int: 4 bytes
-Size of float: 4 bytes
-Size of char: 1 byte
-Size of double: 8 bytes
-
-Function Call 1:
-Auto value = 1
-Static value = 1
-
-Function Call 2:
-Auto value = 1
-Static value = 2
-
-Register variable used successfully
 ```
+Enter an Integer Number: 10
+Integer: 10 | Size: 4 bytes
 
+Enter a Float Number: 3.14
+Float: 3.14 | Size: 4 bytes
+
+Enter a Double Number: 3.14159
+Double: 3.14159 | Size: 8 bytes
+
+Enter a Character: A
+Character: A | Size: 1 byte
+
+Enter a String (one word): Hello
+String: Hello | Size (object): 32 bytes
+
+Enter a Boolean Value (1 for true, 0 for false): 1
+Boolean: 1 | Size: 1 byte
+
+Enter a Short Integer: 100
+Short: 100 | Size: 2 bytes
+
+Enter a Long Integer: 999999999
+Long: 999999999 | Size: 8 bytes
+
+```
 ---
 
 ### ✅ **Conclusion**
