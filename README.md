@@ -63,7 +63,7 @@ Use `sizeof()` to check how much memory each type uses.
 
 ### 🔎 **Sample Output**
 
-```
+
 Enter an Integer Number: 10
 Integer: 10 | Size: 4 bytes
 
@@ -88,8 +88,8 @@ Short: 100 | Size: 2 bytes
 Enter a Long Integer: 999999999
 Long: 999999999 | Size: 8 bytes
 
-```
----
+
+
 
 ### ✅ **Conclusion**
 
